@@ -2,7 +2,7 @@
 
 Thank you for visiting my Github corner. Below are the tech stack I'm using in and out of my professional career.
 
-![dotnet](/assets/images/dotnet-logo.svg) ![csharp](/assets/images/csharp-logo.svg) ![azure](/assets/images/Microsoft_Azure.svg) ![microsoft](/assets/images/Microsoft_logo.svg)
+![dotnet](/assets/images/dotnet-logo.svg)
 
 <!--
 **jaypee-luga/jaypee-luga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
