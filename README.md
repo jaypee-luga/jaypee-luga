@@ -1,4 +1,4 @@
-## Hi! I am Jaypee.
+## Hi There!
 
 Thank you for visiting my Github corner. Have a look at the software techonologies in my toolbox I'm using in and out of my professional career. When I'm not staring blankly or clacking my keyboard deriving a solution, I could be `taking photos`, `cooking`, or `building model kits`, or just enjoying spending time with my loved ones.
 
