@@ -1,14 +1,20 @@
 ## Hi There!
 
-Thank you for visiting my Github corner. Have a look at the software techonologies in my toolbox I'm using in and out of my professional career. When I'm not staring blankly or clacking my keyboard deriving a solution, I could be `taking photos`, `cooking`, building `scale models`, or just enjoying spending time with my loved ones.
+Thank you for visiting my Github corner. Have a look at the software techonologies in my toolbox I'm using in and out of my professional career as a Software Engineer. When I'm not staring blankly or clacking my keyboard deriving a solution, I could be `taking photos`, `cooking`, building `scale models`, or just enjoying `spending time with my loved ones`.
 
-### Programming Languages:
+## TECH STACK
 
-### Frameworks:
+### Programming & Scripting Languages:
 
-`.NET` `Angular` `Next.js` `xUnit` `Svelte` `jQuery` `Dapper` `EntityFramework`
+`C++` `C#` `Java` `Perl` `Python` `Javascript` `Typescript` `HTML5` `CSS3` `json` `yaml` `xml` `SQL`
 
-### Tools:
+### Frameworks & Cloud Services:
+
+`.NET` `Angular` `Next.js (React)` `xUnit` `Svelte` `jQuery` `Dapper` `EntityFramework` `nodejs` `Azure` `Amazon Web Services` `Google Cloud` `Kubernetes`
+
+### Tools & Databases:
+
+`Visual Studio (IDE)` `Visual Studio Code` `LinqPad` `Postman` `JetBrains Rider` `MSSQL Server` `PostgresSQL` `MySQL` `Oracle` `SQLite` `Git` `GitKraken` `SourceTree` `GitHub Desktop` `GitHub` `GitLab` `TFS (Azure DevOps)` `Jira` `Docker` `ActiveMQ` `RabbitMQ`
 
 <!--
 **jaypee-luga/jaypee-luga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
