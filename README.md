@@ -3,7 +3,7 @@
 Thank you for visiting my Github corner. Have a look at the software techonologies in my toolbox I'm using in and out of my professional career. When I'm not staring blankly or clacking my keyboard deriving a solution, I could be `taking photos`, `cooking`, or `building model kits`, or just enjoying spending time with my loved ones.
 
 ![dotnet](/assets/images/dotnet-logo.svg) ![csharp](/assets/images/csharp-logo.svg) ![azure](/assets/images/Microsoft_Azure.svg) ![microsoft](/assets/images/Microsoft_logo.svg)\
-![typescript](/assets/images/Typescript_logo_2020.svg) ![typescript](/assets/images/Unofficial_JavaScript_logo_2.svg) ![typescript](/assets/images/python-svgrepo-com.svg) ![typescript](/assets/images/java.svg) ![](/assets/images/angular_gradient.png|width=80)
+![typescript](/assets/images/Typescript_logo_2020.svg) ![javascript](/assets/images/Unofficial_JavaScript_logo_2.svg) ![python](/assets/images/python-svgrepo-com.svg) ![angular](/assets/images/java.svg) ![](/assets/images/icon_angular.svg)
 
 <!--
 **jaypee-luga/jaypee-luga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
