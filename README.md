@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi! I am Jaypee.
+
+Thank you for visiting my Github corner. Below are the tech stack I'm using in and out of my professional career.
 
 ![](/assets/images/dotnet-logo.svg) ![](/assets/images/Microsoft_logo.svg)
 
