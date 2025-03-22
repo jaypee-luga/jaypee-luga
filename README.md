@@ -8,7 +8,7 @@ When I’m not coding, you’ll probably find me behind a camera, experimenting 
 
 Happy coding!
 
-## TECH STACK
+## TECH TOOLBOX
 
 ### Programming & Scripting Languages:
 
