@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-![](https://camo.githubusercontent.com/fa124696f2d622dd82964731bb1854a0b97568bd2b89e69afb50e84c04d789a7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d2532333631444146422e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d626c61636b)
-
-![](https://github.com/dotnet/brand/blob/main/logo/dotnet-logo.svg)
+![](/assets/images/dotnet-logo.svg)
 
 <!--
 **jaypee-luga/jaypee-luga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
