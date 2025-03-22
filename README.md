@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![](/assets/images/dotnet-logo.svg)![](/assets/images/dotnet-logo.svg)
+![](/assets/images/dotnet-logo.svg) ![](/assets/images/Microsoft_logo.svg)
 
 <!--
 **jaypee-luga/jaypee-luga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
