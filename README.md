@@ -1,12 +1,18 @@
-## Hi There!
+## ABOUT ME
 
-Thank you for visiting my Github corner. Have a look at the software techonologies in my toolbox I'm using in and out of my professional career as a Software Engineer. When I'm not staring blankly or clacking my keyboard deriving a solution, I could be `taking photos`, `cooking`, building `scale models`, or just enjoying `spending time with my loved ones`.
+Hello There! Thanks for stopping by my GitHub corner! I’m **John Paul dela Cruz Luga**, a Software Engineer shaped by real-world experience and a relentless curiosity for technology.\
+
+Feel free to explore my tech toolbox—a collection of software technologies I’ve working with and continuously learning, both inside and outside my professional career. I love diving into new challenges, expanding my skills, and building things that make an impact.\
+
+When I’m not coding, you’ll probably find me behind a camera, experimenting in the kitchen, crafting scale models, or simply cherishing moments with my loved ones.\
+
+Happy coding!
 
 ## TECH STACK
 
 ### Programming & Scripting Languages:
 
-`C++` `C#` `Java` `Perl` `Python` `Javascript` `Typescript` `HTML5` `CSS3` `json` `yaml` `xml` `SQL`
+`C++` `C#` `Java` `Perl` `Python` `PySpark` `Javascript` `Typescript` `HTML5` `CSS3` `json` `yaml` `xml` `SQL`
 
 ### Frameworks & Cloud Services:
 
@@ -15,6 +21,10 @@ Thank you for visiting my Github corner. Have a look at the software techonologi
 ### Tools & Databases:
 
 `Visual Studio (IDE)` `Visual Studio Code` `LinqPad` `Postman` `JetBrains Rider` `MSSQL Server` `PostgresSQL` `MySQL` `Oracle` `SQLite` `Git` `GitKraken` `SourceTree` `GitHub Desktop` `GitHub` `GitLab` `TFS (Azure DevOps)` `Jira` `Docker` `ActiveMQ` `RabbitMQ`
+
+## CONTACT
+
+Email: `jpcluga.career@gmail.com`
 
 <!--
 **jaypee-luga/jaypee-luga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
