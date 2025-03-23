@@ -20,7 +20,7 @@ Happy coding!
 
 ### Tools & Databases:
 
-`Visual Studio (IDE)` `Visual Studio Code` `LinqPad` `Postman` `JetBrains Rider` `MSSQL Server` `PostgresSQL` `MySQL` `Oracle` `SQLite` `Git` `GitKraken` `SourceTree` `GitHub Desktop` `GitHub` `GitLab` `TFS (Azure DevOps)` `Jira` `Docker` `ActiveMQ` `RabbitMQ`
+`Visual Studio (IDE)` `Visual Studio Code` `LinqPad` `Postman` `JetBrains Rider` `MSSQL Server` `PostgreSQL` `MySQL` `Oracle` `SQLite` `Git` `GitKraken` `SourceTree` `GitHub Desktop` `GitHub` `GitLab` `TFS (Azure DevOps)` `Jira` `Docker` `ActiveMQ` `RabbitMQ`
 
 ## CONTACT
 
