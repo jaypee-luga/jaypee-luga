@@ -4,7 +4,7 @@ Hello There! Thanks for stopping by my GitHub corner! I’m **John Paul dela Cru
 
 Feel free to explore my tech toolbox—a collection of software technologies I’ve been working with and continuously learning, both inside and outside my professional career. I love stepping into new challenges, expanding my skills, and building things that makes an impact.
 
-When I’m not coding, you’ll probably find me behind a camera, experimenting in the kitchen, crafting scale models, or simply cherishing moments with my loved ones.
+When I’m not coding, you’ll probably find me behind a camera, experimenting in the kitchen, sweating it out on the gym, crafting scale models, or simply cherishing moments with my loved ones.
 
 Happy coding!
 
