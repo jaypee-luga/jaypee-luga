@@ -12,7 +12,7 @@ Happy coding!
 
 ### Programming & Scripting Languages:
 <sup>With Professional Experience</sup>\
-`C++` `C#`  `Perl` `Python` `PySpark` `Javascript` `Typescript`  `json` `yaml` `xml` `SQL`\
+`C++` `C#`  `Perl` `Python` `PySpark` `Javascript` `Typescript`  `json` `yaml` `xml` `SQL`\\
 <sup>Career Ready</sup>\
 `Java` `HTML5` `CSS3`
 
