@@ -11,8 +11,10 @@ Happy coding!
 ## TECH TOOLBOX
 
 ### Programming & Scripting Languages:
-
-`C++`<sup>Professional Experience</sup> `C#`<sup>Professional Experience</sup> `Java` `Perl`<sup>Professional Experience</sup> `Python`<sup>Professional Experience</sup> `PySpark`<sup>Professional Experience</sup> `Javascript`<sup>Professional Experience</sup> `Typescript`<sup>Professional Experience</sup> `HTML5` `CSS3` `json`<sup>Professional Experience</sup> `yaml` `xml` `SQL`<sup>Professional Experience</sup>
+<sup>With Professional Experience</sup>\
+`C++` `C#`  `Perl` `Python` `PySpark` `Javascript` `Typescript`  `json` `yaml` `xml` `SQL`\
+<sup>Career Ready</sup>\
+`Java` `HTML5` `CSS3`
 
 ### Frameworks & Cloud Services:
 
