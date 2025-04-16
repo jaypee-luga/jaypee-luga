@@ -12,7 +12,7 @@ Happy coding!
 
 ### Programming & Scripting Languages:
 
-`C++` `C#` `Java` `Perl` `Python` `PySpark` `Javascript` `Typescript` `HTML5` `CSS3` `json` `yaml` `xml` `SQL`
+`C++`<sup>Professional Experience</sup> `C#`<sup>Professional Experience</sup> `Java` `Perl`<sup>Professional Experience</sup> `Python`<sup>Professional Experience</sup> `PySpark`<sup>Professional Experience</sup> `Javascript`<sup>Professional Experience</sup> `Typescript`<sup>Professional Experience</sup> `HTML5` `CSS3` `json`<sup>Professional Experience</sup> `yaml` `xml` `SQL`<sup>Professional Experience</sup>
 
 ### Frameworks & Cloud Services:
 
