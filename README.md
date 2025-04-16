@@ -18,12 +18,18 @@ Happy coding!
 `Java` `HTML5` `CSS3`
 
 ### Frameworks & Cloud Services:
-
-`.NET` `Angular` `Next.js (React)` `xUnit` `Svelte` `jQuery` `Dapper` `EntityFramework` `nodejs` `Azure` `Amazon Web Services` `Google Cloud` `Kubernetes`
+<sup>With Professional Experience</sup>\
+`.NET`  `xUnit` `jQuery` `Dapper` `EntityFramework`  `Azure`\
+ \
+<sup>Career Ready</sup>\
+`Angular` `Next.js (React)` `Vuejs` `Svelte` `nodejs` `Kubernetes` `Amazon Web Services` `Google Cloud`
 
 ### Tools & Databases:
-
-`Visual Studio (IDE)` `Visual Studio Code` `LinqPad` `Postman` `JetBrains Rider` `MSSQL Server` `PostgreSQL` `MySQL` `Oracle` `SQLite` `Git` `GitKraken` `SourceTree` `GitHub Desktop` `GitHub` `GitLab` `TFS (Azure DevOps)` `Jira` `Docker` `ActiveMQ` `RabbitMQ`
+<sup>With Professional Experience</sup>\
+`Visual Studio (IDE)` `Visual Studio Code` `LinqPad` `Postman` `JetBrains Rider` `MSSQL Server` `PostgreSQL` `MySQL` `Oracle` `SQLite` `Git` `GitKraken` `SourceTree` `GitHub Desktop` `GitHub` `GitLab` `TFS (Azure DevOps)` `Jira`\
+ \
+<sup>Career Ready</sup>\
+`Docker` `ActiveMQ` `RabbitMQ`
 
 ## CONTACT
 
